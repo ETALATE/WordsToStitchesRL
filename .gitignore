@@ -187,7 +187,7 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
 
 
-#/weights
+/weights
 human.png
 image_human_edge.png 
 image_other_edge.png 
